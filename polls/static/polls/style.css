@@ -1,0 +1,11 @@
+li a {
+    color: green;
+}
+
+img {
+    /* background: white url("images/testpress.png") no-repeat; */
+    display: block;
+    margin: 0 auto;
+    max-width: 400px;
+    max-height: 200px;
+}
