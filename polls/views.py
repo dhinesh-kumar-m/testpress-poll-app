@@ -3,6 +3,7 @@ from django.http import HttpResponseRedirect
 from .models import Question,Choice
 from django.urls import reverse
 from django.views import generic
+from django.db.models import F
 
 
 # Create your views here.
